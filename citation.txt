@@ -1,0 +1,8 @@
+@inproceedings{REPO102,
+    author = "Zhang, Qi and Zhang, Kaiyi and Chan, Antoni B. and Huang, Hui",
+    booktitle = "ECCV",
+    pages = "19--36",
+    title = "{Mahalanobis Distance-based Multi-view Optimal Transport for Multi-view Crowd Localization}",
+    volume = "15062",
+    year = "2024"
+}
